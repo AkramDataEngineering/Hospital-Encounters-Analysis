@@ -1,5 +1,5 @@
 🏥 Hospital Encounters Analysis — SQL Case Study
-This project uses SQL to analyze hospital encounter data from a hypothetical hospital_db schema. It answers real-world healthcare operations and billing questions using raw relational tables (e.g., encounters, patients, payers).
+This project uses SQL to analyze hospital encounter data from a hypothetical hospital_db schema. It answers real-world healthcare operations and billing questions using raw relational tables (encounters, patients, payers & procedures).
 
 🎯 Project Goals
 Support healthcare operations and finance teams with clear insights about encounter volume, cost structure, coverage gaps, and patient behavior.
